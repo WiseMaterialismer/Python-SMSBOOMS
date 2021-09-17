@@ -1,2 +1,2 @@
 "# Python-SMSBOOMS" 
-asdasd
+接入第三方平台,轰炸效果较好
